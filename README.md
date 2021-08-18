@@ -22,6 +22,7 @@ This repo contains python bots for some of the well known games. Just for FUN
   3. Run the commands in the `requirements.txt` file.
   4. Read the `HowTo.txt` guide in the folder *optional*.
   5. Run accordingly.
+  6. Execute **python main.py** command.
 
   ## Bots
   
