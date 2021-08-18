@@ -1,13 +1,6 @@
 # ShittyGameBots
 This repo contains python bots for some of the well known games. Just for FUN
 
-  ## Table of Content
-  - [Bots](#bots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Working](#working)
-  - [Contributors](#contributors)
-
   ## Bots
   - [Piano Tiles Bot](https://github.com/SKR301/ShittyGameBots/blob/main/PianoTiles/main.py)
   
