@@ -25,6 +25,7 @@ This repo contains python bots for some of the well known games. Just for FUN
   6. Execute **python main.py** command.
 
   ## Bots
+  - [Piano Tiles Bot](https://github.com/SKR301/ShittyGameBots/blob/main/PianoTiles/main.py)
   
   ## Contributors
   @SKR301- [Saurav Kumar](https://github.com/SKR301) <br />
