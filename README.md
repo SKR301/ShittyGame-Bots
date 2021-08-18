@@ -16,7 +16,7 @@ This repo contains python bots for some of the well known games. Just for FUN
   ## Working
   1. Clone/Download the repo.
   2. Open the bot folder you want to run.
-  3. Run the commands in the **requirements.txt** file.
+  3. Run `pip install -r requirements.txt` to install requirements.
   4. Read the **HowTo.txt** guide in the folder *optional*.
   5. Run accordingly.
   6. Execute `python main.py` command.
