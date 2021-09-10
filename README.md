@@ -21,7 +21,7 @@ This repo contains python bots for some of the well known games. Just for FUN
   4. Read the **HowTo.txt** guide in the folder *optional*.
   5. Run accordingly.
   6. Execute `python main.py` command.
-  7. To quit press `q` anytime.
+  7. To quit press `q` or close **terminal** anytime.
   
   ## Contributors
   @SKR301- [Saurav Kumar](https://github.com/SKR301) <br />
