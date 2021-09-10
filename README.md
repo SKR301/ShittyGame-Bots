@@ -4,6 +4,7 @@ This repo contains python bots for some of the well known games. Just for FUN
   ## Bots
   - [Piano Tiles Bot](https://github.com/SKR301/ShittyGameBots/blob/main/PianoTiles/main.py)
   - [Shooting Birds Bot](https://github.com/SKR301/ShittyGameBots/blob/main/ShootingBirds/main.py)
+  - [Stick Hero Bot](https://github.com/SKR301/ShittyGame-Bots/blob/stickHero/StickHero/main.py)
   
   ## Technologies
   - python
