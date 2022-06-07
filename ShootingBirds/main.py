@@ -28,4 +28,4 @@ while keyboard.is_pressed("q") == False:
 			if r == elementPixel["r"]:
 				pixel = {"x":x+gameFrame["startX"],"y":y+gameFrame["startY"]}		#setting pixel to click (adding offset)
 				click(pixel)
-				break;
+				break
