@@ -1,1 +1,4 @@
-https://www.miniplay.com/game/brick-breaker-3d
+1) Install the requirements.
+2) Go to Url `https://www.miniplay.com/game/brick-breaker-3d`. [optional URL]
+3) Run the program using `python main.py` command.
+4) Start the game.
