@@ -4,9 +4,7 @@ A python GUI bot to play 'shooting birds'
 
 from pyautogui import *
 import pyautogui
-import time
 import keyboard
-import random
 import win32api, win32con
 
 gameFrame = {"startX":400,"startY":225,"endX":1000,"endY":600}					#setting game frame pixels
