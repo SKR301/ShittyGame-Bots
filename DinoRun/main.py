@@ -5,19 +5,27 @@ import time
 import pyautogui
 import keyboard
 
-lookupPixPos = {'x': 775, 'y': 310}
-dinoPixPos = {'x': 675, 'y': 310}
+lookupPixPos1 = {'x': 880, 'y': 310}
+lookupPixPos2 = {'x': 882, 'y': 310}
+lookupPixPos3 = {'x': 885, 'y': 310}
 bgPixPos = {'x': 10, 'y': 500}
-spFactor = 0.01
+
+def jump():
+    pyautogui.keyUp('down')
+    pyautogui.keyDown('space')
+    pyautogui.keyUp('space') 
+    time.sleep(0.1)
+    pyautogui.keyDown('down')
+
 
 while keyboard.is_pressed('q') == False:
-    lookupPixCol = pyautogui.pixel(lookupPixPos['x'], lookupPixPos['y'])
+    lookupPixCol1 = pyautogui.pixel(lookupPixPos1['x'], lookupPixPos1['y'])
+    lookupPixCol2 = pyautogui.pixel(lookupPixPos2['x'], lookupPixPos2['y'])
+    lookupPixCol3 = pyautogui.pixel(lookupPixPos3['x'], lookupPixPos3['y'])
     bgPixCol = pyautogui.pixel(bgPixPos['x'], bgPixPos['y'])
-    dinoPixCol = pyautogui.pixel(dinoPixPos['x'], dinoPixPos['y'])
+    
+    pyautogui.keyDown('down')
 
-    # jump on cactus
-    if lookupPixCol != bgPixCol:
-        keyboard.press_and_release('space')
-        print('jump')
-
-    # crouch on dragon
+    # jump on cactus 
+    if lookupPixCol1 != bgPixCol or lookupPixCol2 != bgPixCol or lookupPixCol3 != bgPixCol:     
+        jump()
