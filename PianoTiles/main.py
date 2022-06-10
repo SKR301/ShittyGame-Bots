@@ -2,7 +2,6 @@
 A python GUI bot to play 'piano tiles'
 """
 
-from pyautogui import *
 import pyautogui
 import time
 import keyboard
