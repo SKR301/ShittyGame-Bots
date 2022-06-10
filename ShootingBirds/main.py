@@ -2,7 +2,6 @@
 A python GUI bot to play 'shooting birds'
 """
 
-from pyautogui import *
 import pyautogui
 import keyboard
 import win32api, win32con
