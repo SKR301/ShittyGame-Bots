@@ -2,10 +2,11 @@
 This repo contains python bots for some of the well known games. Just for FUN
 
   ## Bots
-  - [Piano Tiles Bot](https://github.com/SKR301/ShittyGameBots/blob/main/PianoTiles/main.py)
-  - [Shooting Birds Bot](https://github.com/SKR301/ShittyGameBots/blob/main/ShootingBirds/main.py)
-  - [Stick Hero Bot](https://github.com/SKR301/ShittyGame-Bots/blob/stickHero/StickHero/main.py)
-  - [Brick Breaker Bot](https://github.com/SKR301/ShittyGame-Bots/tree/main/BrickBreaker/main.py)
+  - [Piano Tiles Bot](https://github.com/SKR301/ShittyGame-Bots/blob/main/StickHero/main.py)
+  - [Shooting Birds Bot](https://github.com/SKR301/ShittyGame-Bots/blob/main/ShootingBirds/main.py)
+  - [Stick Hero Bot](https://github.com/SKR301/ShittyGame-Bots/blob/main/PianoTiles/main.py)
+  - [Brick Breaker Bot](https://github.com/SKR301/ShittyGame-Bots/blob/main/BrickBreaker/main.py)
+  - [Dino Runner Bot](https://github.com/SKR301/ShittyGame-Bots/blob/main/DinoRun/main.py)
   
   ## Technologies
   - python v3.7
@@ -26,5 +27,3 @@ This repo contains python bots for some of the well known games. Just for FUN
   
   ## Contributors
   @SKR301- [Saurav Kumar](https://github.com/SKR301) <br />
-
-
