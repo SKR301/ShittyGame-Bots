@@ -2,7 +2,6 @@
 A python GUI bot to play 'brick breakers'
 """
 
-from pyautogui import *
 import pyautogui
 import keyboard
 
