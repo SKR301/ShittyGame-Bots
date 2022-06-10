@@ -1,7 +1,6 @@
 """
 A python GUI bot to play 'dino run'
 """
-import time
 import pyautogui
 import keyboard
 
