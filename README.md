@@ -1,29 +1,36 @@
 # ShittyGame-Bots
-This repo contains python bots for some of the well known games. Just for FUN
 
-  ## Bots
-  - [Piano Tiles Bot](https://github.com/SKR301/ShittyGame-Bots/blob/main/StickHero/main.py)
-  - [Shooting Birds Bot](https://github.com/SKR301/ShittyGame-Bots/blob/main/ShootingBirds/main.py)
-  - [Stick Hero Bot](https://github.com/SKR301/ShittyGame-Bots/blob/main/PianoTiles/main.py)
-  - [Brick Breaker Bot](https://github.com/SKR301/ShittyGame-Bots/blob/main/BrickBreaker/main.py)
-  - [Dino Runner Bot](https://github.com/SKR301/ShittyGame-Bots/blob/main/DinoRun/main.py)
-  
-  ## Technologies
-  - python v3.7
-  
-  ## Setup
-  How to start the program:-
-  1. Make sure you have **python** installed.
-  2. Make sure you have **pip** installed.
-  
-  ## Working
-  1. Clone/Download the repo.
-  2. Open the bot folder you want to run.
-  3. Run `pip install -r requirements.txt` to install requirements.
-  4. Read the **HowTo.txt** guide in the folder *optional*.
-  5. Run accordingly.
-  6. Execute `python main.py` command.
-  7. To quit press `q` or close **terminal** anytime.
-  
-  ## Contributors
-  @SKR301- [Saurav Kumar](https://github.com/SKR301) <br />
+This repo contains python bots for some of the well known games. Just for FUN.
+
+## Installation
+
+1. Clone this repository:
+   ```sh
+   git clone https://SKR301/ShittyGame-Bots.git
+   ```
+3. Install [Python](https://www.python.org/) and PIP.
+
+## Usage
+
+1. `cd` into bot folder.
+2. Install packages from "requirements.txt" file:
+   ```sh
+   python3 -m pip install -r requirements.txt
+   ```
+3. Read "HowTo.txt" file.
+4. Run the bot:
+   ```sh
+   python3 main.py
+   ```
+5. Press "q" to stop the bot.
+
+## Bots
+* [Brick Breaker](https://github.com/SKR301/ShittyGame-Bots/blob/main/BrickBreaker/main.py)
+* [Dino Runner](https://github.com/SKR301/ShittyGame-Bots/blob/main/DinoRun/main.py)
+* [Piano Tiles](https://github.com/SKR301/ShittyGame-Bots/blob/main/PianoTiles/main.py)
+* [Shooting Birds](https://github.com/SKR301/ShittyGame-Bots/blob/main/ShootingBirds/main.py)
+* [Stick Hero](https://github.com/SKR301/ShittyGame-Bots/blob/main/StickHero/main.py)
+
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more details.
