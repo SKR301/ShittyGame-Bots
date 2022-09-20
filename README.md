@@ -4,25 +4,15 @@ This repo contains python bots for some of the well known games. Just for FUN.
 
 ## Installation
 
-1. Clone this repository:
-   ```sh
-   git clone https://SKR301/ShittyGame-Bots.git
-   ```
-3. Install [Python](https://www.python.org/) and PIP.
+1. Clone this repository: `git clone https://SKR301/ShittyGame-Bots.git`
+2. Install [Python](https://www.python.org/) and PIP.
 
 ## Usage
-
 1. `cd` into bot folder.
-2. Install packages from "requirements.txt" file:
-   ```sh
-   python3 -m pip install -r requirements.txt
-   ```
-3. Read "HowTo.txt" file.
-4. Run the bot:
-   ```sh
-   python3 main.py
-   ```
-5. Press "q" to stop the bot.
+2. Install packages from **requirements.txt** file: `python3 -m pip install -r requirements.txt`
+3. Read **HowTo.txt** file.
+4. Run the bot: `python3 main.py`
+5. Press **q** to stop the bot.
 
 ## Bots
 * [Brick Breaker](https://github.com/SKR301/ShittyGame-Bots/blob/main/BrickBreaker/main.py)
@@ -33,4 +23,4 @@ This repo contains python bots for some of the well known games. Just for FUN.
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more details.
+Distributed under the MIT License. <br />See [LICENSE](LICENSE) for more details.
